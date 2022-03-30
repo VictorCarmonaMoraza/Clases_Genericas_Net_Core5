@@ -1,0 +1,16 @@
+C:\Users\Victo\Desktop\Proyectos 2022\Clases_Genericas\Clase_Generica\Clase_Generica\obj\Debug\net5.0\Clase_Generica.csproj.AssemblyReference.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Clases_Genericas\Clase_Generica\Clase_Generica\obj\Debug\net5.0\Clase_Generica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Proyectos 2022\Clases_Genericas\Clase_Generica\Clase_Generica\obj\Debug\net5.0\Clase_Generica.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Clases_Genericas\Clase_Generica\Clase_Generica\obj\Debug\net5.0\Clase_Generica.AssemblyInfo.cs
+C:\Users\Victo\Desktop\Proyectos 2022\Clases_Genericas\Clase_Generica\Clase_Generica\obj\Debug\net5.0\Clase_Generica.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Clases_Genericas\Clase_Generica\Clase_Generica\bin\Debug\net5.0\Clase_Generica.exe
+C:\Users\Victo\Desktop\Proyectos 2022\Clases_Genericas\Clase_Generica\Clase_Generica\bin\Debug\net5.0\Clase_Generica.deps.json
+C:\Users\Victo\Desktop\Proyectos 2022\Clases_Genericas\Clase_Generica\Clase_Generica\bin\Debug\net5.0\Clase_Generica.runtimeconfig.json
+C:\Users\Victo\Desktop\Proyectos 2022\Clases_Genericas\Clase_Generica\Clase_Generica\bin\Debug\net5.0\Clase_Generica.runtimeconfig.dev.json
+C:\Users\Victo\Desktop\Proyectos 2022\Clases_Genericas\Clase_Generica\Clase_Generica\bin\Debug\net5.0\Clase_Generica.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Clases_Genericas\Clase_Generica\Clase_Generica\bin\Debug\net5.0\ref\Clase_Generica.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Clases_Genericas\Clase_Generica\Clase_Generica\bin\Debug\net5.0\Clase_Generica.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\Clases_Genericas\Clase_Generica\Clase_Generica\obj\Debug\net5.0\Clase_Generica.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Clases_Genericas\Clase_Generica\Clase_Generica\obj\Debug\net5.0\ref\Clase_Generica.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Clases_Genericas\Clase_Generica\Clase_Generica\obj\Debug\net5.0\Clase_Generica.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\Clases_Genericas\Clase_Generica\Clase_Generica\obj\Debug\net5.0\Clase_Generica.genruntimeconfig.cache
