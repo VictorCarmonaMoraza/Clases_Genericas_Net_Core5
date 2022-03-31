@@ -7,13 +7,18 @@ namespace Clase_Generica
         static void Main(string[] args)
         {
             var book = new Books<Book>();
-            book.Book = new Book
+            book.Add(new Book
             {
                 Id = 1,
                 Titulo = "Pruebas C#"
-            };
+            });
+            book.Add(new Book
+            {
+                Id = 2,
+                Titulo = "Net Core"
+            });
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine($"{book.Book.Titulo} -----> {book.Book.Id}");
+            //Console.WriteLine($"{book.Book.Titulo} -----> {book.Book.Id}");
             Console.ReadKey();
         }
     }
