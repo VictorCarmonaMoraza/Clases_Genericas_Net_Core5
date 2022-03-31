@@ -6,13 +6,14 @@ namespace Clase_Generica
     {
         static void Main(string[] args)
         {
-            var book = new Books<String>();
-            book.Book = "Victor";
-            var numero = new Books<int>();
-            numero.Book = 202;
+            var book = new Books<Book>();
+            book.Book = new Book
+            {
+                Id = 1,
+                Titulo = "Pruebas C#"
+            };
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine(book.Book);
-            Console.WriteLine(numero.Book);
+            Console.WriteLine($"{book.Book.Titulo} -----> {book.Book.Id}");
             Console.ReadKey();
         }
     }

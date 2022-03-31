@@ -1,3 +1,3 @@
-##  1- Creacion proyecto para explicar clases Genericas
+##  2- Creando restricciones en la clase generica
 
-Creamos la primera clase generica, con sus pruebas correspondientes
+Crearemos la clase generica con restricciones

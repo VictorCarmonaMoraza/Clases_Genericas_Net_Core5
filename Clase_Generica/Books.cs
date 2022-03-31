@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Clase_Generica
 {
-    public class Books<T>
+    public class Books<T> where T : Book
     {
         private T book;
         public T Book
