@@ -18,7 +18,7 @@ namespace Clase_Generica
                 Titulo = "Net Core"
             });
             Console.ForegroundColor = ConsoleColor.Green;
-            //Console.WriteLine($"{book.Book.Titulo} -----> {book.Book.Id}");
+            Console.WriteLine($"{book.Get(1).Titulo} -----> {book.Get(1).Id}");
             Console.ReadKey();
         }
     }
